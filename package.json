@@ -1,0 +1,30 @@
+{
+  "name": "constructor-word-guess",
+  "version": "1.0.0",
+  "description": "A command line word guessing game",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Evanjcleary/Constructor-word-guess.git"
+  },
+  "keywords": [
+    "Word",
+    "Guess",
+    "Constructors",
+    "Javascript",
+    "Node",
+    "JS"
+  ],
+  "author": "ETJCODER",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Evanjcleary/Constructor-word-guess/issues"
+  },
+  "homepage": "https://github.com/Evanjcleary/Constructor-word-guess#readme",
+  "dependencies": {
+    "inquirer": "^6.5.0"
+  }
+}
